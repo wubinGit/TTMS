@@ -29,6 +29,6 @@ ttms:
     baseUrl: http://114.115.204.56
     maxsize: 1
     unit: M
-mybatis:
-  configuration:
-    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+#mybatis:
+#  configuration:
+#    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
