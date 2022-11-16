@@ -26,7 +26,7 @@
         <pageHelper.starter.version>1.2.3</pageHelper.starter.version>
         <fastDFS.client.version>1.26.1-RELEASE</fastDFS.client.version>
         <commons-lang3>3.7</commons-lang3>
-        <jackson-databind>2.9.3</jackson-databind>
+        <jackson-databind>2.12.7.1</jackson-databind>
         <lombok>1.16.20</lombok>
     </properties>
 
